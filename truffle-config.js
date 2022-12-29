@@ -26,15 +26,15 @@ const { key, projectId, api_keys } = require('./secrets.json');
 module.exports = {
   plugins: ['truffle-plugin-verify', 'truffle-contract-size'],
   api_keys: {
-    etherscan: '4R2GG4ABQQEWKXAA9W547M4UQXP3TZUP4Y',
-    polygonscan: 'B67JZC62SHAGBKX3T4I3RM23MR6KYCIAYZ',
-    aurorascan: 'N6U25RYGE6UB39YC28CBVJBG1H1TCMFETZ ',
-    bscscan: 'F61QTTC7T2PFCGH3ADEWD9YUX4E55BQY77',
-    ftmscan: 'TN6482VHCR1RKKIFE6BNVA8RDVHNT1DJUU',
-    satoshiscan: '1fed8bdfbe214caa9346d560a62a46b0',
-    cronoscan: 'DD9UFSMC9ANUUEMGR11WBHRJCM8PBDS8H1',
-    arbiscan: 'IDSM5BWWXN3B12N4QW7DQC7KSWXA3V2XRB',
-    snowtrace: 'GPESGUKTA7S9FRMY4APBDX92E455YC3Z3B',
+    etherscan: 'SET API KEY HERE',
+    polygonscan: 'SET API KEY HERE',
+    aurorascan: 'SET API KEY HERE',
+    bscscan: 'SET API KEY HERE',
+    ftmscan: 'SET API KEY HERE',
+    satoshiscan: 'SET API KEY HERE',
+    cronoscan: 'SET API KEY HERE',
+    arbiscan: 'SET API KEY HERE',
+    snowtrace: 'SET API KEY HERE',
   },
   /**
    * Networks define how you connect to your ethereum client and let you set the
